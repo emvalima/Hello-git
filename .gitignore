@@ -1,0 +1,4 @@
+# Ignore these
+*.in
+*.out
+*.pyc
